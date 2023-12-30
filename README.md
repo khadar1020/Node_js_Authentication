@@ -17,4 +17,3 @@ Before running the application, ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
-- 
